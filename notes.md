@@ -15,3 +15,7 @@ https://upload.wikimedia.org/wikipedia/commons/5/54/20151121_Oberhausen_Nightwis
 2018 - Floor and LINKJørn ViggoLINK formed the hard rock duo LINKNorthwardLINK - Scientist Andreas Weigel discovers a new species of Beetle, Tmesisternus floorjansenae. This is the second newly discovered species to be named after a Nightwish band member.
 
 -- To be continued ... --
+
+resources :
+https://en.wikipedia.org/wiki/Floor_Jansen
+https://www.floorjansen.com/bio
